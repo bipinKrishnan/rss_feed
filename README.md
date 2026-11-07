@@ -9,7 +9,7 @@
 > [!WARNING]
 > **This project is vibecoded with DeepSeek.**
 
-![Reader in light mode — feed list, article list and reading pane](docs/screenshot-light.png)
+![Reader in action — adding a feed and reading an article](docs/demo.gif)
 
 ---
 
@@ -59,20 +59,6 @@ npm run dev     # restart automatically while editing (Ctrl+C to quit)
 
 `npm start` writes a PID file so `npm stop` can shut it down cleanly. If you start
 the server in a terminal instead, `Ctrl+C` works as usual.
-
-## Screenshots
-
-All screenshots use a **fictional demo library** (`Field Notes`, `Signal & Noise`, `Studio Log`, `Frontier Dispatch`). The headlines, article text and artwork were created for this README — no real feeds or third-party content is shown.
-
-**Dark theme**
-
-![Reader in dark mode](docs/screenshot-dark.png)
-
-**Mobile**
-
-<p align="center">
-  <img src="docs/screenshot-mobile.png" alt="Reader on a phone" width="320">
-</p>
 
 ## Using Reader
 
